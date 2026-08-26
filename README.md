@@ -2,7 +2,7 @@
 
 An interactive, single-file web tool that visualizes the tokenomics of the **Flop Network** — a proof-of-useful-inference blockchain where GPU owners earn `$FLOP` for verified AI inference.
 
-**Live demo:** _enable GitHub Pages to get a link (see below)_
+**Live demo:** https://izmiradami.github.io/flop-tokenomics-simulator/
 
 ## What it does
 
